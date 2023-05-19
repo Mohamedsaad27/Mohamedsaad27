@@ -9,7 +9,8 @@
 
 - :school: I am a `Computer Science Student` from Faculty of Computers & Information at SVU University
 - 🌱 I’m currently studing `Back-End|PHP `
-- 📫 How to reach me **sa3doni2714@gmail.com**- :nerd_face: Always `learning new things`
+- 📫 How to reach me **sa3doni2714@gmail.com**
+-  :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 <br>
 
